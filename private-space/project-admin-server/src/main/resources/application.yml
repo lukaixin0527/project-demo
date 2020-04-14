@@ -1,0 +1,14 @@
+# 端口号
+server:
+  port: 8000
+
+# 应用名称
+spring:
+  application:
+    name: admin-server
+
+# 配置安全中心登录密码 正式环境配置复杂密码
+  security:
+    user:
+      name: admin
+      password: admin

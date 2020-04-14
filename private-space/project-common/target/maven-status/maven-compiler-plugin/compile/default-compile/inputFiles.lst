@@ -1,0 +1,12 @@
+/Users/mac/openSoftware/private-space/project-common/src/main/java/com/project/consts/ConfigConsts.java
+/Users/mac/openSoftware/private-space/project-common/src/main/java/com/project/bo/WebLog.java
+/Users/mac/openSoftware/private-space/project-common/src/main/java/com/project/service/StudentService.java
+/Users/mac/openSoftware/private-space/project-common/src/main/java/com/project/vo/ResultCode.java
+/Users/mac/openSoftware/private-space/project-common/src/main/java/com/project/dao/BaseDao.java
+/Users/mac/openSoftware/private-space/project-common/src/main/java/com/project/service/impl/StudentServiceImpl.java
+/Users/mac/openSoftware/private-space/project-common/src/main/java/com/project/dto/UserEntity.java
+/Users/mac/openSoftware/private-space/project-common/src/main/java/com/project/entity/BaseEntity.java
+/Users/mac/openSoftware/private-space/project-common/src/main/java/com/project/entity/StudentEntity.java
+/Users/mac/openSoftware/private-space/project-common/src/main/java/com/project/dao/StudentRepository.java
+/Users/mac/openSoftware/private-space/project-common/src/main/java/com/project/vo/ServerResult.java
+/Users/mac/openSoftware/private-space/project-common/src/main/java/com/project/consts/CacheConsts.java

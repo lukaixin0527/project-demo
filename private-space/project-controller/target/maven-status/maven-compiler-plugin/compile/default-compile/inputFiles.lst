@@ -1,0 +1,10 @@
+/Users/mac/openSoftware/private-space/project-controller/src/main/java/com/project/ApiApplication.java
+/Users/mac/openSoftware/private-space/project-controller/src/main/java/com/project/component/WebLogAspect.java
+/Users/mac/openSoftware/private-space/project-controller/src/main/java/com/project/config/ConfigRedis.java
+/Users/mac/openSoftware/private-space/project-controller/src/main/java/com/project/controller/TestController.java
+/Users/mac/openSoftware/private-space/project-controller/src/main/java/com/project/config/ControllerAdviceException.java
+/Users/mac/openSoftware/private-space/project-controller/src/main/java/com/project/bo/WebLog.java
+/Users/mac/openSoftware/private-space/project-controller/src/main/java/com/project/config/ControllerAdviceResponse.java
+/Users/mac/openSoftware/private-space/project-controller/src/main/java/com/project/config/ConfigWebIntercept.java
+/Users/mac/openSoftware/private-space/project-controller/src/main/java/com/project/interceptor/ValidateDataInterceptor.java
+/Users/mac/openSoftware/private-space/project-controller/src/main/java/com/project/config/ConfigGlobalCors.java

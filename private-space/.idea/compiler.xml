@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="project-admin-server" />
+        <module name="project-common" />
+        <module name="project-controller" />
+        <module name="project-task" />
+        <module name="project-util" />
+        <module name="project-parse" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="project-task" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="project-admin-server" options="-parameters" />
+      <module name="project-common" options="-parameters" />
+      <module name="project-controller" options="-parameters" />
+      <module name="project-parse" options="-parameters" />
+      <module name="project-task" options="-parameters" />
+      <module name="project-util" options="-parameters" />
+    </option>
+  </component>
+</project>
